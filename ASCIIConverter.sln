@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASCIIConverterCore", "ASCIIConverterCore\ASCIIConverterCore.csproj", "{F73EDA92-21DD-4330-ABAA-3395279DB72F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASCIIConverterExtended", "ASCIIConverterExtended\ASCIIConverterExtended.csproj", "{07BAAED2-3296-4EB1-9973-EA0424C7345E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F73EDA92-21DD-4330-ABAA-3395279DB72F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73EDA92-21DD-4330-ABAA-3395279DB72F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73EDA92-21DD-4330-ABAA-3395279DB72F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73EDA92-21DD-4330-ABAA-3395279DB72F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07BAAED2-3296-4EB1-9973-EA0424C7345E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07BAAED2-3296-4EB1-9973-EA0424C7345E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07BAAED2-3296-4EB1-9973-EA0424C7345E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07BAAED2-3296-4EB1-9973-EA0424C7345E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {330F773C-2658-42A9-9112-A2F6642D33CA}
+	EndGlobalSection
+EndGlobal
